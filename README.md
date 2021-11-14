@@ -18,3 +18,7 @@ At the moment, the website is not responsive yet.
 
 # in the second version
 renaming photos and their directories, moving css and js to separate files, previous versions of photos removed
+
+# link
+
+https://szymekcendecki.github.io/photoViewer/
