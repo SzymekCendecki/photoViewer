@@ -6,9 +6,15 @@ Ten projekt powstał w celach edukacyjnych oraz w celu przetestowania działa ko
 Aby pracować z kodem wystarczy uruchomić go dowolnym edytorze.
 Na obecną chwilę strona nie jest jeszcze responsywna.
 
+# w wersji drugiej
+zmiana nazw zdjęć oraz ich katalogów, przeniesienie css i js do osobnych plików, usunięto poprzedniewersje zdjęć
+
 # Photo Viewer (English language version)
 This project is the first version of the Photo Viewer where photos appear: previous (left), currently viewed (middle) and next (right).
 All the code is in one file (due to the small amount of code).
 This project was created for educational purposes and to test how the code works.
 To work with the code, just run it with any editor.
 At the moment, the website is not responsive yet.
+
+# in the second version
+renaming photos and their directories, moving css and js to separate files, previous versions of photos removed
